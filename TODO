@@ -1,0 +1,6 @@
+1)Determinant hatali calisiyor, debug et. --> Cozuldu
+2)Matrix inverse icin bir method yaz.
+3)Gaussian elemination icin bir method yaz.
+4)Convert to row echelon icin bir method yaz.
+5)Matrix ranki hesaplamak icin bir method yaz.
+6)Identity'e cevirmek icin bir method yaz. --> Yapildi.
