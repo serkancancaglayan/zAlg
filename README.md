@@ -8,4 +8,20 @@ Usage Example
   zMatrix<int> m1(4,4, a);
   zMatrix<int> m2(4,4, b);
   zMatrix<int> result = m1 * m2
+  
+  zMatrix<int> resultT = m1.transpose();
+  
+  
+  //Element Acces
+  int x = m1.getElement(3, 2);
+  //Set Element
+  m1.setElement(3, 2, 5);
+  
+  
+  //Determinant
+  auto det = m1.determinant();
+  
+  
+  //Identitiy Set
+  m2.toIdentity();
  ```
